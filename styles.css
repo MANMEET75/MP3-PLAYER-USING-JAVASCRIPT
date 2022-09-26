@@ -1,0 +1,114 @@
+.sidhuImage{
+    width: 50%;
+}
+.powerImage{
+    width:100%;
+}
+.CKImage{
+    width: 100%;
+}
+
+#button1{
+    width: 100%;
+}
+#button2{
+    width: 100%;
+}
+#button3{
+    width: 100%;
+}
+#button4{
+    width: 100%;
+}
+#button5{
+    width: 100%;
+}
+#button6{
+    width: 100%;
+}
+#button7{
+    width: 100%;
+}
+#button8{
+    width: 100%;
+}
+#button9{
+    width: 100%;
+}
+#button10{
+    width: 100%;
+}
+#buttonPause1{
+    margin: 20px;
+    border-radius: 70%;
+
+}
+#buttonPause2{
+    margin: 20px;
+    border-radius: 70%;
+
+}
+#buttonPause3{
+    margin: 20px;
+    border-radius: 70%;
+
+}
+#buttonPause4{
+    margin: 20px;
+    border-radius: 70%;
+
+}
+#buttonPause5{
+    margin: 20px;
+    border-radius: 70%;
+
+}
+#buttonPause6{
+    margin: 20px;
+    border-radius: 70%;
+
+}
+#buttonPause7{
+    margin: 20px;
+    border-radius: 70%;
+
+}
+#buttonPause8{
+    margin: 20px;
+    border-radius: 70%;
+
+}
+#buttonPause9{
+    margin: 20px;
+    border-radius: 70%;
+
+}
+#buttonPause10{
+    margin: 20px;
+    border-radius: 70%;
+
+}
+
+.bottom-container{
+    height: 200px;
+    padding-top: 150px;
+    text-align: right;
+    padding-right: 30px;
+}
+
+.container{
+    padding-top: 50px;
+}
+.card1{
+    position: absolute;
+    right: 130px;
+    top: 50px;
+
+}
+h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
